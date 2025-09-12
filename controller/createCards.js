@@ -46,9 +46,9 @@ export function createCards() {
         p2.textContent = 'Tchecoslováquia';
 
         let sede = document.createElement("h3")
-        sede.textContent = 'Uruguai';
+        sede.textContent = 'Sede';
 
-        let p3 = document.createElement("h3")
+        let p3 = document.createElement("h1")
         p3.textContent = 'Uruguai';
 
         dados.appendChild(campeao);

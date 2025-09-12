@@ -1,5 +1,5 @@
-import { createCards } from "./createCards";
+import { createCards } from "./createCards.js";
 
-// document.addEventListener("DOMContentLoaded", ()=>{
-//     createCards()
-// });
+document.addEventListener("DOMContentLoaded", ()=>{
+    createCards()
+});

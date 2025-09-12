@@ -8,8 +8,8 @@
 }
 
 .card {
-    width: 85%;
-    height: 35vh;
+    width: 98%;
+    height: 43vh;
 
     background-color: rgb(199, 143, 0);
 }
@@ -37,7 +37,7 @@
     height: 30%;
 }
 
-.informações h1 {
+.informacoes h1 {
     display: flex;
     justify-content: space-between;
     margin: 0;
@@ -50,7 +50,7 @@
     width: 140px;
 }
 
-.informações h3 {
+.informacoes h3 {
     display: flex;
     justify-content: space-between;
     margin: 0;
@@ -60,7 +60,7 @@
     width: 140px;
 }
 
-.informações {
+.informacoes {
     display: flex;
     justify-content: space-between;
     border-top: 10px solid rgb(199, 143, 0);

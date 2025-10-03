@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/copas-do-mundo';
+const apiUrl = 'https://api-ivory-six-58.vercel.app/copas-do-mundo';
 export async function buscarInformacoes() {
     try {
         const response = await fetch(apiUrl);
